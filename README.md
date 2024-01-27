@@ -21,7 +21,7 @@ Welcome to our blog site! This application provides a platform for developers to
 - [License](#license)
 
 ## Demo
- - HERE
+ - https://tech-blog-jake-646e048719b0.herokuapp.com
 
 ## Architecture
 
